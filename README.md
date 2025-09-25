@@ -27,5 +27,6 @@ This project processes PDF documents (e.g., ICICI insurance policies), generates
 
 Clone the repository:
 ```bash
-git clone https://github.com/SyamSashank1512/Insurance-ChatBot.git
+git clone https://github.com/Umadevi016/Insurance-ChatBot.git
 cd Insurance-ChatBot
+
